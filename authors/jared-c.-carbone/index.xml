@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jared C. Carbone | Akio Yamazaki</title>
+    <link>/authors/jared-c.-carbone/</link>
+      <atom:link href="/authors/jared-c.-carbone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jared C. Carbone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2023`</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jared C. Carbone</title>
+      <link>/authors/jared-c.-carbone/</link>
+    </image>
+    
+    <item>
+      <title>Comparing applied general equilibrium and econometric estimates of the effect of an environmental policy shock</title>
+      <link>/publication/carbone-et-al2020jaere/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/carbone-et-al2020jaere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green Fiscal Reforms and the Demographic Squeeze</title>
+      <link>/publication/greenfiscal_carbone/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/greenfiscal_carbone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
