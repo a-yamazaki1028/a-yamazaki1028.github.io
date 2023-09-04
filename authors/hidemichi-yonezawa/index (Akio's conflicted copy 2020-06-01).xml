@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hidemichi Yonezawa | Akio Yamazaki</title>
+    <link>/www3.grips.ac.jp/~ayamazaki/authors/hidemichi-yonezawa/</link>
+      <atom:link href="/www3.grips.ac.jp/~ayamazaki/authors/hidemichi-yonezawa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hidemichi Yonezawa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020`</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hidemichi Yonezawa</title>
+      <link>/www3.grips.ac.jp/~ayamazaki/authors/hidemichi-yonezawa/</link>
+    </image>
+    
+    <item>
+      <title>Comparing applied general equilibrium and econometric estimates of the effect of an environmental policy shock</title>
+      <link>/www3.grips.ac.jp/~ayamazaki/publication/carbone-et-al2020jaere/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/www3.grips.ac.jp/~ayamazaki/publication/carbone-et-al2020jaere/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

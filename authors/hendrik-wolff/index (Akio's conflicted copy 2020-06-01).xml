@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendrik Wolff | Akio Yamazaki</title>
+    <link>/www3.grips.ac.jp/~ayamazaki/authors/hendrik-wolff/</link>
+      <atom:link href="/www3.grips.ac.jp/~ayamazaki/authors/hendrik-wolff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hendrik Wolff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© `2020`</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hendrik Wolff</title>
+      <link>/www3.grips.ac.jp/~ayamazaki/authors/hendrik-wolff/</link>
+    </image>
+    
+    <item>
+      <title>Do Carbon Taxes Kill Jobs? Firm-level Evidence from British Columbia</title>
+      <link>/www3.grips.ac.jp/~ayamazaki/publication/ahy/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/www3.grips.ac.jp/~ayamazaki/publication/ahy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
